@@ -1,5 +1,7 @@
 ## Sobre mim
-Me chamo Abner Gabriel, sou um cara que gosta bastante desse mundo dev, e que busca aprendizados na área cada dia mais...
+Olá, me chamo Abner Gabriel. Sou formado em Análise e Desenvolvimento de Sistemas e estou desenvolvendo meus conhecimentos em Front-End, com foco em HTML, CSS, JavaScript e criação de interfaces web.
+
+Atualmente estou praticando com projetos próprios para melhorar minha lógica, organização de código e construção de páginas responsivas.
 
 - 👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas.
 - 🌱 Me desenvolvendo mais em HTML, CSS e JS.
@@ -15,4 +17,4 @@ Me chamo Abner Gabriel, sou um cara que gosta bastante desse mundo dev, e que bu
 
 Linkedin (https://www.linkedin.com/in/abnergabriel/)
 Gmail (abnergabriel862@gmail.com)
-Contato (81981480638)
+
