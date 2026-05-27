@@ -18,3 +18,6 @@ Atualmente estou praticando com projetos próprios para melhorar minha lógica, 
 Linkedin (https://www.linkedin.com/in/abnergabriel/)
 Gmail (abnergabriel862@gmail.com)
 
+## Localidade
+Pernambuco - Brasil
+
